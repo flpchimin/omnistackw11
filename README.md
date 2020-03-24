@@ -1,2 +1,3 @@
-# omnistackw11
-Semana Omnistack 11.0 - Be The Hero
+# Semana Omnistack 11.0
+## Projeto: Be The Hero
+
