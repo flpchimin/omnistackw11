@@ -44,7 +44,7 @@ export default function Incidents() {
   }
   
   useEffect(() => {
-    loadIncidents;
+    loadIncidents();
   }, []);
 
   return (
